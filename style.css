@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: fixed 1 solid greenyellow;
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    color: indigo;
+    size: 20px;
+    font-style: italic;
+}
